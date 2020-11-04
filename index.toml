@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "3212b6b5c5e9352daf99700e0bee79aeefa36e823e04621170fa2b67d6b15b83"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "33634472d636f4614d57da093a4e29e84419a692ac7967f3017b8168af36a4b7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "8bc1dda7226dfb350d762fee8569d86bd84f237877244ed683f315305b361d6a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "bcfb188f8f2b7eb27888fc07e222b3b4e4eb100880a5956710cbb393cb08b8db"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "e8bd65dbaa1cec8da1df4f903b8dc1a9db5aca82e56856c06fc284ff1b9a9a73"
+metafile = true

@@ -1,0 +1,10 @@
+name = "jadpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "62b81aa650e2f0053ea944104c1f1f9a8b4945f8f1ab3e1dfaef4a9d35beca44"
+
+[versions]
+fabric = "0.10.6+build.214"
+minecraft = "1.16.3"
