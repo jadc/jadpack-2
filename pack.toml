@@ -3,7 +3,7 @@ name = "jadpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bc9f775f30acf9a86d8a134647dcf95b4e4c97f480f21391cb6f3f24b255128a"
+hash = "62444e7773e04494cc7530dbbc64c2835e1e827a6b1bc29ee1f77f69df64c445"
 
 [versions]
 fabric = "0.10.6+build.214"

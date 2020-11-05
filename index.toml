@@ -11,13 +11,13 @@ hash = "33634472d636f4614d57da093a4e29e84419a692ac7967f3017b8168af36a4b7"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "8bc1dda7226dfb350d762fee8569d86bd84f237877244ed683f315305b361d6a"
+file = "mods/canvas-renderer.toml"
+hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
 metafile = true
 
 [[files]]
-file = "mods/falling-leaves-fabric.toml"
-hash = "79956201ecc869a5a97c4ee17ba6f89bc1fcecd89357c19ab54ab0f08e9e616e"
+file = "mods/fabric-api.toml"
+hash = "8bc1dda7226dfb350d762fee8569d86bd84f237877244ed683f315305b361d6a"
 metafile = true
 
 [[files]]
@@ -33,9 +33,4 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "e8bd65dbaa1cec8da1df4f903b8dc1a9db5aca82e56856c06fc284ff1b9a9a73"
 metafile = true
