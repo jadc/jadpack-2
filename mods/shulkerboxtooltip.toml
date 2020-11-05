@@ -1,0 +1,14 @@
+name = "ShulkerBoxTooltip"
+filename = "shulkerboxtooltip-2.3.3+1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/432/shulkerboxtooltip-2.3.3+1.16.4.jar"
+hash-format = "murmur2"
+hash = "1387953074"
+
+[update]
+[update.curseforge]
+file-id = 3100432
+project-id = 315811
+release-channel = "beta"
