@@ -1,0 +1,14 @@
+name = "MAmbience"
+filename = "Mambience-2.1.0+1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3029/495/Mambience-2.1.0+1.16.2.jar"
+hash-format = "murmur2"
+hash = "3860107199"
+
+[update]
+[update.curseforge]
+file-id = 3029495
+project-id = 317590
+release-channel = "beta"

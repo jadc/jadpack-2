@@ -55,6 +55,11 @@ hash = "bcfb188f8f2b7eb27888fc07e222b3b4e4eb100880a5956710cbb393cb08b8db"
 metafile = true
 
 [[files]]
+file = "mods/mambience.toml"
+hash = "2bf51b8ea387f5c81c835edb4940987b0dd3dde48a9e83e881f8a2658dc4bd08"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
 metafile = true
