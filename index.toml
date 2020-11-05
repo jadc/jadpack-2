@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/auto-config-updated-api.toml"
+hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
+metafile = true
+
+[[files]]
 file = "mods/betterend.toml"
 hash = "3212b6b5c5e9352daf99700e0bee79aeefa36e823e04621170fa2b67d6b15b83"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/canvas-renderer.toml"
 hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "830ee84de4918bb87ba109a6b5a5fd1b4e5cc39e50195e3d2c5ca1ca0e664b78"
 metafile = true
 
 [[files]]
