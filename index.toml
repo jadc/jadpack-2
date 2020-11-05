@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "jadpack.zip"
+hash = "301ed02ae98e05376333eaa2b705a4c2a42a1f5a47f1d08beb3b5dc17cb677b9"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
+metafile = true
+
+[[files]]
 file = "mods/auto-config-updated-api.toml"
 hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
 metafile = true
@@ -12,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.toml"
-hash = "33634472d636f4614d57da093a4e29e84419a692ac7967f3017b8168af36a4b7"
+hash = "948f188aac7242d3c1ee59aa64f1a0f15e6e0cda6e5a60b1d5703c3d2870f51c"
 metafile = true
 
 [[files]]
@@ -23,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "830ee84de4918bb87ba109a6b5a5fd1b4e5cc39e50195e3d2c5ca1ca0e664b78"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "e1914c3faffb93b0fb5aadb832832b1d0b6ec828f402abf9921f9dc741c4c049"
 metafile = true
 
 [[files]]
@@ -54,3 +68,41 @@ metafile = true
 file = "mods/phosphor.toml"
 hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
 metafile = true
+
+[[files]]
+file = "mods/vanilla-excavators.toml"
+hash = "9d9f1d56e62980bab5bd13f795fb92ff96cdd7f90a9a6d2c93b758c44875cf69"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.toml"
+hash = "b81081cb3f0a9ad01c62aede632e4599ac1d977160d3626bbcc8b29c14e5eaf2"
+metafile = true
+
+[[files]]
+file = "pack/.minecraft/options.txt"
+hash = "fed5421c757f899a1bcd8f1e5fc1c878634b243bce25be43bd5b9f661708ff1b"
+
+[[files]]
+file = "pack/.minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "pack/.minecraft/resourcepacks/More+Canvas+Compat-1.1-1.16.2.zip"
+hash = "3c3960f35f15bd84353a93afbdba9ac9109bd6a7474b3b757c3f8b63d3f8dc29"
+
+[[files]]
+file = "pack/.minecraft/servers.dat"
+hash = "fa2765f1315eb4557a23c1f7ac992bc54646730809169af9676df746a78d37b1"
+
+[[files]]
+file = "pack/icon.png"
+hash = "262b2d46ac23f9a81432b1ad4d3c9b714a05fa1e0c4945e1ce2d15ad2bcf32ef"
+
+[[files]]
+file = "pack/instance.cfg"
+hash = "223c9710a3f6f9c51c09eed6655fed8c786661d0acdb11d6e6d7055b0574a162"
+
+[[files]]
+file = "pack/mmc-pack.json"
+hash = "6cf021dde192f7cfd84f6412d8bfbc15a0eb8cec985a30b0a2d8fa0c5872e6c9"
