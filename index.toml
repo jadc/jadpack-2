@@ -21,6 +21,11 @@ hash = "8bc1dda7226dfb350d762fee8569d86bd84f237877244ed683f315305b361d6a"
 metafile = true
 
 [[files]]
+file = "mods/headdowndisplay.toml"
+hash = "15d70e0eb071a58e219395c3eca99356881a31c2b27174f09b190b495ce00a3a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "bcfb188f8f2b7eb27888fc07e222b3b4e4eb100880a5956710cbb393cb08b8db"
 metafile = true

@@ -1,0 +1,14 @@
+name = "Head-down Display"
+filename = "headdowndisplay-1.0.1+1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3040/342/headdowndisplay-1.0.1+1.16.jar"
+hash-format = "murmur2"
+hash = "3954024260"
+
+[update]
+[update.curseforge]
+file-id = 3040342
+project-id = 404023
+release-channel = "beta"
