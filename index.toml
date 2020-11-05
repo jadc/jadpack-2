@@ -16,6 +16,11 @@ hash = "8bc1dda7226dfb350d762fee8569d86bd84f237877244ed683f315305b361d6a"
 metafile = true
 
 [[files]]
+file = "mods/falling-leaves-fabric.toml"
+hash = "79956201ecc869a5a97c4ee17ba6f89bc1fcecd89357c19ab54ab0f08e9e616e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "bcfb188f8f2b7eb27888fc07e222b3b4e4eb100880a5956710cbb393cb08b8db"
 metafile = true
