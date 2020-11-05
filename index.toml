@@ -25,6 +25,11 @@ hash = "948f188aac7242d3c1ee59aa64f1a0f15e6e0cda6e5a60b1d5703c3d2870f51c"
 metafile = true
 
 [[files]]
+file = "mods/bow-infinity-fix.toml"
+hash = "100517d8626944a3b6cc1e9bca0de10c2c5ddc6fd74628e0f0562d5d09c15fbd"
+metafile = true
+
+[[files]]
 file = "mods/canvas-renderer.toml"
 hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
 metafile = true
@@ -45,8 +50,18 @@ hash = "8bc1dda7226dfb350d762fee8569d86bd84f237877244ed683f315305b361d6a"
 metafile = true
 
 [[files]]
+file = "mods/fabric-disable-custom-worlds-advice.toml"
+hash = "3242dac45bb5eeafc55e873f182456529cdd5f2676f84c575256fcd277ecab99"
+metafile = true
+
+[[files]]
 file = "mods/headdowndisplay.toml"
 hash = "15d70e0eb071a58e219395c3eca99356881a31c2b27174f09b190b495ce00a3a"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "a48bd2a71f05dc6a78adf16dcea01bf1658e2df0012dc2997f98a15401ac0740"
 metafile = true
 
 [[files]]
@@ -72,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
+metafile = true
+
+[[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "fcbb8e2113cdf8ddcb841a827ff7e6a605bbebb35f5227177549b474bfac719c"
 metafile = true
 
 [[files]]
