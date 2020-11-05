@@ -26,6 +26,11 @@ hash = "bcfb188f8f2b7eb27888fc07e222b3b4e4eb100880a5956710cbb393cb08b8db"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.toml"
+hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
 metafile = true
