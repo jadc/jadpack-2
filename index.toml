@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "jadpack.zip"
-hash = "301ed02ae98e05376333eaa2b705a4c2a42a1f5a47f1d08beb3b5dc17cb677b9"
-
-[[files]]
 file = "mods/anvil-fix.toml"
 hash = "f171d330ff2cd7b096457f1705c975c72222427538e5341db5ee7221f8c60826"
 metafile = true
@@ -213,31 +209,3 @@ metafile = true
 file = "mods/yungs-better-caves-fabric.toml"
 hash = "7947850228a1e399289d1536364e598a1b54bb2b131d185315c5d075eeacf259"
 metafile = true
-
-[[files]]
-file = "pack/.minecraft/options.txt"
-hash = "fed5421c757f899a1bcd8f1e5fc1c878634b243bce25be43bd5b9f661708ff1b"
-
-[[files]]
-file = "pack/.minecraft/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "pack/.minecraft/resourcepacks/More+Canvas+Compat-1.1-1.16.2.zip"
-hash = "3c3960f35f15bd84353a93afbdba9ac9109bd6a7474b3b757c3f8b63d3f8dc29"
-
-[[files]]
-file = "pack/.minecraft/servers.dat"
-hash = "fa2765f1315eb4557a23c1f7ac992bc54646730809169af9676df746a78d37b1"
-
-[[files]]
-file = "pack/icon.png"
-hash = "262b2d46ac23f9a81432b1ad4d3c9b714a05fa1e0c4945e1ce2d15ad2bcf32ef"
-
-[[files]]
-file = "pack/instance.cfg"
-hash = "223c9710a3f6f9c51c09eed6655fed8c786661d0acdb11d6e6d7055b0574a162"
-
-[[files]]
-file = "pack/mmc-pack.json"
-hash = "6cf021dde192f7cfd84f6412d8bfbc15a0eb8cec985a30b0a2d8fa0c5872e6c9"
