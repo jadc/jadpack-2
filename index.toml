@@ -41,11 +41,6 @@ hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
 metafile = true
 
 [[files]]
-file = "mods/cave-biomes.toml"
-hash = "5eea2a7329f28d2e5ccfa4a789934c4cdeaa0921e8df05f13db28a8465cf49cb"
-metafile = true
-
-[[files]]
 file = "mods/chunk-pregenerator-fabric.toml"
 hash = "58656c01fa3305de76e0b16e0695ff8820f7551a84789644ca96b41dd9f4bae7"
 metafile = true
@@ -68,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.toml"
 hash = "47736c1bb0b25d424fdcee626d40761847c159e9aad520095515c21d6d6fed7e"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.toml"
+hash = "ccc6f22ef1e27b59959ad363d9a68dc51428f3864f36279446e2f84973a13a18"
 metafile = true
 
 [[files]]
@@ -146,13 +146,13 @@ hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "84153aa50ca3662a545535c5bdc9abbcc1897f8612212911ee8feb2c51593b84"
+file = "mods/ok-zoomer.toml"
+hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.toml"
-hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
+file = "mods/overworld-two.toml"
+hash = "915f0fcaf1cbacd55a7a546e138a4ee3f550fd0be395bdcfc958b805ce14dbe1"
 metafile = true
 
 [[files]]
