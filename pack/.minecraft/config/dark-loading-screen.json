@@ -1,7 +1,7 @@
 {
     "background": "000",
-    "bar": "ffcc00",
-    "barBackground": "1a1400",
+    "bar": "000",
+    "barBackground": "fff",
     "border": "000",
-    "logo": "ffffff"
+    "logo": "fff"
 }
