@@ -1,0 +1,14 @@
+name = "Oh The Biomes You'll Go [FABRIC]"
+filename = "byg-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3099/60/byg-1.1.2.jar"
+hash-format = "murmur2"
+hash = "1667880855"
+
+[update]
+[update.curseforge]
+file-id = 3099060
+project-id = 391378
+release-channel = "beta"

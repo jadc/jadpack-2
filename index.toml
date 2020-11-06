@@ -5,6 +5,11 @@ file = "jadpack.zip"
 hash = "301ed02ae98e05376333eaa2b705a4c2a42a1f5a47f1d08beb3b5dc17cb677b9"
 
 [[files]]
+file = "mods/anvil-fix.toml"
+hash = "f171d330ff2cd7b096457f1705c975c72222427538e5341db5ee7221f8c60826"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
 metafile = true
@@ -32,6 +37,21 @@ metafile = true
 [[files]]
 file = "mods/canvas-renderer.toml"
 hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
+metafile = true
+
+[[files]]
+file = "mods/cave-biomes.toml"
+hash = "5eea2a7329f28d2e5ccfa4a789934c4cdeaa0921e8df05f13db28a8465cf49cb"
+metafile = true
+
+[[files]]
+file = "mods/chunk-pregenerator-fabric.toml"
+hash = "58656c01fa3305de76e0b16e0695ff8820f7551a84789644ca96b41dd9f4bae7"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.toml"
+hash = "02a5e0ba6e583bf6733d19ca7c847991e1436f8df98a37002ca733528342a695"
 metafile = true
 
 [[files]]
@@ -65,6 +85,21 @@ hash = "3242dac45bb5eeafc55e873f182456529cdd5f2676f84c575256fcd277ecab99"
 metafile = true
 
 [[files]]
+file = "mods/fabric-furnaces.toml"
+hash = "aef02a9c7c6a0e96a5fbcabc36173320f40b6340256fd6f8aad22f2c43a97a75"
+metafile = true
+
+[[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "75782c4665bae2249e5e5cb5434b8615f0f64c7412bd254926c9cddc761d3b05"
+metafile = true
+
+[[files]]
+file = "mods/fenceplayerupper.toml"
+hash = "eb3c8fdff751b7c138dd3953c5a44274a87501ce0b4e281bbc25e9c4a24bc784"
+metafile = true
+
+[[files]]
 file = "mods/headdowndisplay.toml"
 hash = "15d70e0eb071a58e219395c3eca99356881a31c2b27174f09b190b495ce00a3a"
 metafile = true
@@ -72,6 +107,26 @@ metafile = true
 [[files]]
 file = "mods/illuminations.toml"
 hash = "8babec701625f9adaff9578e091d16500ba157f23b3953ba91e1e2fdbe0b3da2"
+metafile = true
+
+[[files]]
+file = "mods/inmis.toml"
+hash = "a508459e91c0777fc56877c43d89fd97ed6f8f6f347352f4a2a7161cf7670e94"
+metafile = true
+
+[[files]]
+file = "mods/lapis-reserve.toml"
+hash = "f0d3abd0860c1aa855405fb1576b62886265b4b48d6e41ddc70bf016a87934b2"
+metafile = true
+
+[[files]]
+file = "mods/leaf-decay.toml"
+hash = "fba0adc449f136c6cc3a826afb17b6c684ed85313b873a26bc6b053b6ffd8fc0"
+metafile = true
+
+[[files]]
+file = "mods/leaf-me-alone.toml"
+hash = "96295e9f3da1f2041ce21eb3a6ac26b9faa4be87163a310ee8d0e916f9e4366d"
 metafile = true
 
 [[files]]
@@ -90,6 +145,11 @@ hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.toml"
+hash = "84153aa50ca3662a545535c5bdc9abbcc1897f8612212911ee8feb2c51593b84"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
 metafile = true
@@ -100,13 +160,28 @@ hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "1955750b2c7f239669569ad035e741d515bcf2052183b31a8749e0494299dc8a"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "fc2701f153322078995ec591fba2a7d9540a89122a8e45f8910b2251386fa7b9"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "9ca99074c8a152680665813ce4e8e5f11861a724b4ffe19e505bf20e3d8f93ee"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "71e24ae929704ceb3f7d6bc048afe52e9646130500dc52d2889b9807f1de572c"
+metafile = true
+
+[[files]]
+file = "mods/simpleharvest.toml"
+hash = "ed14abc821d12764e6f3294ad699850bc8acd91bcde48fbdd0dc89a177fc718a"
 metafile = true
 
 [[files]]
@@ -122,6 +197,16 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.toml"
 hash = "b81081cb3f0a9ad01c62aede632e4599ac1d977160d3626bbcc8b29c14e5eaf2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "a63c221953ef23bf1e3db694105819ec7d04e9d18033e0834714673857f18c43"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves-fabric.toml"
+hash = "7947850228a1e399289d1536364e598a1b54bb2b131d185315c5d075eeacf259"
 metafile = true
 
 [[files]]

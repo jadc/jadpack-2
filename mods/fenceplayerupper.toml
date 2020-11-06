@@ -1,0 +1,14 @@
+name = "Fence Player Upper"
+filename = "fenceplayerupper-1.0.2+1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3049/712/fenceplayerupper-1.0.2+1.16.2.jar"
+hash-format = "murmur2"
+hash = "2501658248"
+
+[update]
+[update.curseforge]
+file-id = 3049712
+project-id = 405591
+release-channel = "beta"

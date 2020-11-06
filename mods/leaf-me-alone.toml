@@ -1,0 +1,14 @@
+name = "Leaf Me Alone"
+filename = "leafmealone-2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2991/691/leafmealone-2.1.jar"
+hash-format = "murmur2"
+hash = "231225968"
+
+[update]
+[update.curseforge]
+file-id = 2991691
+project-id = 363879
+release-channel = "beta"
