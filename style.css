@@ -1,0 +1,17 @@
+body {
+    background-color: #13171A;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    margin: 1em;
+}
