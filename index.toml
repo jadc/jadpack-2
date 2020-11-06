@@ -16,11 +16,6 @@ hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
 metafile = true
 
 [[files]]
-file = "mods/backslot.toml"
-hash = "de4c1cafd86cf0badc351e6ee2109f1b12a48ec98c684bf4e22f4ef670a11352"
-metafile = true
-
-[[files]]
 file = "mods/bedspreads-fabric.toml"
 hash = "ece8857838970189bae0299e31aa3099a1fa7a2bcdd78f68dcdb3a91ca235e91"
 metafile = true
@@ -123,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-furnaces.toml"
 hash = "aef02a9c7c6a0e96a5fbcabc36173320f40b6340256fd6f8aad22f2c43a97a75"
+metafile = true
+
+[[files]]
+file = "mods/fabric-resource-loader.toml"
+hash = "643c23d8f57002eadffcf5f8d534dfb41ec7c8ff255ea6e4d9ba9a57587be751"
 metafile = true
 
 [[files]]
@@ -268,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.toml"
 hash = "b81081cb3f0a9ad01c62aede632e4599ac1d977160d3626bbcc8b29c14e5eaf2"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.toml"
-hash = "a63c221953ef23bf1e3db694105819ec7d04e9d18033e0834714673857f18c43"
 metafile = true
 
 [[files]]
