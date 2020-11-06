@@ -1,0 +1,14 @@
+name = "Bedspreads (Fabric)"
+filename = "bedspreads-fabric-1.2.0-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3068/187/bedspreads-fabric-1.2.0-1.16.3.jar"
+hash-format = "murmur2"
+hash = "2764055664"
+
+[update]
+[update.curseforge]
+file-id = 3068187
+project-id = 400477
+release-channel = "beta"

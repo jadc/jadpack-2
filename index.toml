@@ -20,6 +20,11 @@ hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads-fabric.toml"
+hash = "ece8857838970189bae0299e31aa3099a1fa7a2bcdd78f68dcdb3a91ca235e91"
+metafile = true
+
+[[files]]
 file = "mods/betterend.toml"
 hash = "3212b6b5c5e9352daf99700e0bee79aeefa36e823e04621170fa2b67d6b15b83"
 metafile = true
