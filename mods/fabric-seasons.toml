@@ -1,0 +1,14 @@
+name = "Fabric Seasons"
+filename = "seasons-0.3-BETA.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3084/680/seasons-0.3-BETA.jar"
+hash-format = "murmur2"
+hash = "3946823625"
+
+[update]
+[update.curseforge]
+file-id = 3084680
+project-id = 413523
+release-channel = "beta"

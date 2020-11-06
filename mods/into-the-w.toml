@@ -1,0 +1,14 @@
+name = "Into The Ω"
+filename = "into-the-omega-1.1.2-beta-1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3052/530/into-the-omega-1.1.2-beta-1.16.2.jar"
+hash-format = "murmur2"
+hash = "866957538"
+
+[update]
+[update.curseforge]
+file-id = 3052530
+project-id = 399334
+release-channel = "beta"

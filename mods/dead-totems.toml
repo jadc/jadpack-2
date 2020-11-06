@@ -1,0 +1,14 @@
+name = "Dead Totems"
+filename = "deadtotems-0.1.1+1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3076/245/deadtotems-0.1.1+1.16.3.jar"
+hash-format = "murmur2"
+hash = "465658977"
+
+[update]
+[update.curseforge]
+file-id = 3076245
+project-id = 409997
+release-channel = "beta"

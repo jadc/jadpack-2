@@ -16,6 +16,11 @@ hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
 metafile = true
 
 [[files]]
+file = "mods/backslot.toml"
+hash = "de4c1cafd86cf0badc351e6ee2109f1b12a48ec98c684bf4e22f4ef670a11352"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads-fabric.toml"
 hash = "ece8857838970189bae0299e31aa3099a1fa7a2bcdd78f68dcdb3a91ca235e91"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.toml"
 hash = "3212b6b5c5e9352daf99700e0bee79aeefa36e823e04621170fa2b67d6b15b83"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "360932196b7aa7a809adbdabcf75e6f18a928e744a27af2fca3e54e86ddbd6be"
 metafile = true
 
 [[files]]
@@ -38,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/canvas-renderer.toml"
 hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.toml"
+hash = "567e2daa9e822fa30023a197dfd8ac0db1e907c848a0dc0a9fc81c7b4df9527d"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.toml"
+hash = "d6df35eeee105ba74975bf0ddaf5acabe404da86318d80c0963daf758f3f172b"
 metafile = true
 
 [[files]]
@@ -61,6 +81,11 @@ hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
 metafile = true
 
 [[files]]
+file = "mods/couplings-for-fabric-updated.toml"
+hash = "2ee1bb14585300043ca79a5cf512de65f50ceb1736e52e8e97d97bb27adf085b"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.toml"
 hash = "47736c1bb0b25d424fdcee626d40761847c159e9aad520095515c21d6d6fed7e"
 metafile = true
@@ -71,8 +96,18 @@ hash = "ccc6f22ef1e27b59959ad363d9a68dc51428f3864f36279446e2f84973a13a18"
 metafile = true
 
 [[files]]
+file = "mods/dead-totems.toml"
+hash = "c8411e6a7079b6a17bc0a11482407e7ecde82ac4868d0f458f7bd0c15c9f52b3"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "e1914c3faffb93b0fb5aadb832832b1d0b6ec828f402abf9921f9dc741c4c049"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-sound-filters.toml"
+hash = "cca01de090a0c44be5c4d0ad1773b226c1f435a60891a9ccae1777e41f71c4c5"
 metafile = true
 
 [[files]]
@@ -91,6 +126,11 @@ hash = "aef02a9c7c6a0e96a5fbcabc36173320f40b6340256fd6f8aad22f2c43a97a75"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons.toml"
+hash = "53582737e4b9dfdd0a1266ec2278ca880562b15163a8fe821b1040366a639cca"
+metafile = true
+
+[[files]]
 file = "mods/fast-furnace-for-fabric.toml"
 hash = "75782c4665bae2249e5e5cb5434b8615f0f64c7412bd254926c9cddc761d3b05"
 metafile = true
@@ -106,6 +146,11 @@ hash = "15d70e0eb071a58e219395c3eca99356881a31c2b27174f09b190b495ce00a3a"
 metafile = true
 
 [[files]]
+file = "mods/i-am-very-smart.toml"
+hash = "2c08cbce1db3117dac5883ceb2a123bd2d4f9d2556ceb2de24953e422841fa79"
+metafile = true
+
+[[files]]
 file = "mods/illuminations.toml"
 hash = "8babec701625f9adaff9578e091d16500ba157f23b3953ba91e1e2fdbe0b3da2"
 metafile = true
@@ -113,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/inmis.toml"
 hash = "a508459e91c0777fc56877c43d89fd97ed6f8f6f347352f4a2a7161cf7670e94"
+metafile = true
+
+[[files]]
+file = "mods/into-the-w.toml"
+hash = "139f0022e77def22cb8fbfce63c344fc5bbed7699e78f1962b343f06911402e4"
 metafile = true
 
 [[files]]
@@ -143,6 +193,21 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
+metafile = true
+
+[[files]]
+file = "mods/mooblooms.toml"
+hash = "506d4d6e17ab74adbaf7980af075d87c69e488d39fc33b68b2751bed24c9fd66"
+metafile = true
+
+[[files]]
+file = "mods/nbt-crafting.toml"
+hash = "131b8dfc873f7e76ee416059ad5afa941712a624872de880026746b9231fe369"
+metafile = true
+
+[[files]]
+file = "mods/netherite-plus-mod.toml"
+hash = "bdc2e0491ea6405ff20879b55125ae73fbd0e70f414469e4413b36b318b386a2"
 metafile = true
 
 [[files]]
@@ -183,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/simpleharvest.toml"
 hash = "ed14abc821d12764e6f3294ad699850bc8acd91bcde48fbdd0dc89a177fc718a"
+metafile = true
+
+[[files]]
+file = "mods/sit-fabric.toml"
+hash = "2266d8b74b106d01e323c1b609435f9e1fa45fa04fd0abc51890861b1e9b7882"
 metafile = true
 
 [[files]]
