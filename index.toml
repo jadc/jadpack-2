@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "830ee84de4918bb87ba109a6b5a5fd1b4e5cc39e50195e3d2c5ca1ca0e664b78"
+hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "fcbb8e2113cdf8ddcb841a827ff7e6a605bbebb35f5227177549b474bfac719c"
+hash = "de6c84a7b24f79c247faf44cf44c0cb3fb5de948b3f18e712a191cda32cc0fbc"
 metafile = true
 
 [[files]]

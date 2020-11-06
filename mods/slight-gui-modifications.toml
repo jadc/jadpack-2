@@ -1,14 +1,14 @@
 name = "'Slight' Gui Modifications"
-filename = "slight-gui-modifications-1.5.0.jar"
+filename = "slight-gui-modifications-1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3083/832/slight-gui-modifications-1.5.0.jar"
+url = "https://edge.forgecdn.net/files/3102/880/slight-gui-modifications-1.5.1.jar"
 hash-format = "murmur2"
-hash = "147386028"
+hash = "3748645522"
 
 [update]
 [update.curseforge]
-file-id = 3083832
+file-id = 3102880
 project-id = 380393
 release-channel = "beta"
