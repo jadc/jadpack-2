@@ -196,11 +196,6 @@ hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
 metafile = true
 
 [[files]]
-file = "mods/mooblooms.toml"
-hash = "506d4d6e17ab74adbaf7980af075d87c69e488d39fc33b68b2751bed24c9fd66"
-metafile = true
-
-[[files]]
 file = "mods/nbt-crafting.toml"
 hash = "131b8dfc873f7e76ee416059ad5afa941712a624872de880026746b9231fe369"
 metafile = true
