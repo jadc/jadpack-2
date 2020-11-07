@@ -106,11 +106,6 @@ hash = "95319db784b82b09d7ec05638b596cb6cf3ecb5350abf40702e3dc86cc2f1bf3"
 metafile = true
 
 [[files]]
-file = "mods/damage-tilt.toml"
-hash = "b6ec3e9ede06825813feaeb5b2179efa34bb612e5ce411c8351cd669837c9e36"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.toml"
 hash = "ccc6f22ef1e27b59959ad363d9a68dc51428f3864f36279446e2f84973a13a18"
 metafile = true
