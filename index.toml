@@ -86,11 +86,6 @@ hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
 metafile = true
 
 [[files]]
-file = "mods/couplings-for-fabric-updated.toml"
-hash = "2ee1bb14585300043ca79a5cf512de65f50ceb1736e52e8e97d97bb27adf085b"
-metafile = true
-
-[[files]]
 file = "mods/craftingpad-fabric.toml"
 hash = "7470b60657dd4e1b8a7ad04c7589314b936f0a7a0773665ebb54a0ab204b8649"
 metafile = true
