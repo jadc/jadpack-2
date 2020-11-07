@@ -86,6 +86,11 @@ hash = "ccc6f22ef1e27b59959ad363d9a68dc51428f3864f36279446e2f84973a13a18"
 metafile = true
 
 [[files]]
+file = "mods/datafixerslayer.toml"
+hash = "67e9687d903f0f776b92d603c1d15f9897999c977429590b4127b090ec7f84ec"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "e1914c3faffb93b0fb5aadb832832b1d0b6ec828f402abf9921f9dc741c4c049"
 metafile = true
