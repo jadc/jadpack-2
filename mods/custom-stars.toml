@@ -1,0 +1,14 @@
+name = "Custom Stars [Fabric]"
+filename = "custom-stars-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3092/951/custom-stars-0.4.1.jar"
+hash-format = "murmur2"
+hash = "436586262"
+
+[update]
+[update.curseforge]
+file-id = 3092951
+project-id = 411848
+release-channel = "beta"

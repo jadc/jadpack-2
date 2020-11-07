@@ -1,0 +1,14 @@
+name = "Eldritch Mobs"
+filename = "eldritch-mobs-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3077/809/eldritch-mobs-1.5.1.jar"
+hash-format = "murmur2"
+hash = "1546611603"
+
+[update]
+[update.curseforge]
+file-id = 3077809
+project-id = 392015
+release-channel = "beta"

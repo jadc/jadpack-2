@@ -21,6 +21,11 @@ hash = "ece8857838970189bae0299e31aa3099a1fa7a2bcdd78f68dcdb3a91ca235e91"
 metafile = true
 
 [[files]]
+file = "mods/better-mod-button.toml"
+hash = "a971dec476d5d09e18b9031cdf28bf7f4eb1f5c0f85a5a80f6c645a9c832967c"
+metafile = true
+
+[[files]]
 file = "mods/betterend.toml"
 hash = "3212b6b5c5e9352daf99700e0bee79aeefa36e823e04621170fa2b67d6b15b83"
 metafile = true
@@ -36,6 +41,11 @@ hash = "948f188aac7242d3c1ee59aa64f1a0f15e6e0cda6e5a60b1d5703c3d2870f51c"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.toml"
+hash = "4aa9350f98a8731e2ac3b9a3be3040d30c68ee5f5b0a5e9a21fda82b3ecbe37e"
+metafile = true
+
+[[files]]
 file = "mods/bow-infinity-fix.toml"
 hash = "9e56f98de3f5adfbbff4595bbf334d9f1d59a06c1a7fe9a9954a11f4d714ac45"
 metafile = true
@@ -43,6 +53,16 @@ metafile = true
 [[files]]
 file = "mods/canvas-renderer.toml"
 hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+hash = "193b85b97152e488cc74dc0de0e99014d1b031ad96804c64a5057483b8c0f0ae"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components.toml"
+hash = "86eef90d5cd4f9453a9fa595fb67f4929ea8ba2e564ada54a11898637ac86053"
 metafile = true
 
 [[files]]
@@ -81,6 +101,16 @@ hash = "47736c1bb0b25d424fdcee626d40761847c159e9aad520095515c21d6d6fed7e"
 metafile = true
 
 [[files]]
+file = "mods/custom-stars.toml"
+hash = "95319db784b82b09d7ec05638b596cb6cf3ecb5350abf40702e3dc86cc2f1bf3"
+metafile = true
+
+[[files]]
+file = "mods/damage-tilt.toml"
+hash = "b6ec3e9ede06825813feaeb5b2179efa34bb612e5ce411c8351cd669837c9e36"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.toml"
 hash = "ccc6f22ef1e27b59959ad363d9a68dc51428f3864f36279446e2f84973a13a18"
 metafile = true
@@ -91,6 +121,11 @@ hash = "67e9687d903f0f776b92d603c1d15f9897999c977429590b4127b090ec7f84ec"
 metafile = true
 
 [[files]]
+file = "mods/draylars-battle-towers.toml"
+hash = "be401648bf641b42f59df671efbf55351c14231e286a182ceb926b6248ce0dcd"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "e1914c3faffb93b0fb5aadb832832b1d0b6ec828f402abf9921f9dc741c4c049"
 metafile = true
@@ -98,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-sound-filters.toml"
 hash = "cca01de090a0c44be5c4d0ad1773b226c1f435a60891a9ccae1777e41f71c4c5"
+metafile = true
+
+[[files]]
+file = "mods/eldritch-mobs.toml"
+hash = "acad72d7c1a9499ae9730f1fdaef30ba392a86a3bbe94578c26f63633532993f"
 metafile = true
 
 [[files]]
@@ -116,8 +156,18 @@ hash = "aef02a9c7c6a0e96a5fbcabc36173320f40b6340256fd6f8aad22f2c43a97a75"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "a3dc5e4111a18214315645b023b4477d8548516223faf5c639f90348cb199614"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.toml"
 hash = "53582737e4b9dfdd0a1266ec2278ca880562b15163a8fe821b1040366a639cca"
+metafile = true
+
+[[files]]
+file = "mods/fabric-waystones.toml"
+hash = "05ccff0af1dacfb5dc653ba4372e3770a161b8108c9b62982f0b3d82b0ce87b7"
 metafile = true
 
 [[files]]
@@ -141,11 +191,6 @@ hash = "2c08cbce1db3117dac5883ceb2a123bd2d4f9d2556ceb2de24953e422841fa79"
 metafile = true
 
 [[files]]
-file = "mods/illuminations.toml"
-hash = "8babec701625f9adaff9578e091d16500ba157f23b3953ba91e1e2fdbe0b3da2"
-metafile = true
-
-[[files]]
 file = "mods/inmis.toml"
 hash = "a508459e91c0777fc56877c43d89fd97ed6f8f6f347352f4a2a7161cf7670e94"
 metafile = true
@@ -153,6 +198,16 @@ metafile = true
 [[files]]
 file = "mods/into-the-w.toml"
 hash = "139f0022e77def22cb8fbfce63c344fc5bbed7699e78f1962b343f06911402e4"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests-fabric.toml"
+hash = "693c34ea9e6592c87ffe098493d8b47d4f6862d89520e41170c6776487652913"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "381c6141fabbe1244a6b9d2d1ce2b56f11fc8df4114931acbdc379197a4d99cc"
 metafile = true
 
 [[files]]
@@ -191,6 +246,11 @@ hash = "bdc2e0491ea6405ff20879b55125ae73fbd0e70f414469e4413b36b318b386a2"
 metafile = true
 
 [[files]]
+file = "mods/nomoreglowingpots.toml"
+hash = "b9531eea229153c70c968a250aa0d323b205ec747538758124c257f9a2f7c6c3"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
 metafile = true
@@ -203,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.toml"
+hash = "442c89f8c5027bbfe31b964422092142b064c2cc453996d835c73eff56118e4d"
 metafile = true
 
 [[files]]
@@ -241,6 +306,11 @@ hash = "de6c84a7b24f79c247faf44cf44c0cb3fb5de948b3f18e712a191cda32cc0fbc"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.toml"
+hash = "fde37d4760ea8b9bbf8796efac55e8f8086ab3d7663f799b72161482bd22f951"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-excavators.toml"
 hash = "9d9f1d56e62980bab5bd13f795fb92ff96cdd7f90a9a6d2c93b758c44875cf69"
 metafile = true
@@ -248,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-hammers.toml"
 hash = "b81081cb3f0a9ad01c62aede632e4599ac1d977160d3626bbcc8b29c14e5eaf2"
+metafile = true
+
+[[files]]
+file = "mods/window-title-changer.toml"
+hash = "16f61f3e0d67f9934c705c9b67ea6e663bdde904be919fd32f4566314c64d776"
 metafile = true
 
 [[files]]

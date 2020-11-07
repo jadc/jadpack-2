@@ -1,0 +1,14 @@
+name = "Fabric Capes"
+filename = "capes-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3092/373/capes-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1965876689"
+
+[update]
+[update.curseforge]
+file-id = 3092373
+project-id = 408481
+release-channel = "beta"
