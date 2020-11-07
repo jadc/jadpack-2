@@ -296,11 +296,6 @@ hash = "de6c84a7b24f79c247faf44cf44c0cb3fb5de948b3f18e712a191cda32cc0fbc"
 metafile = true
 
 [[files]]
-file = "mods/straighten-up.toml"
-hash = "caa8d90af54d80b5fcdc3839f99138c9638459cd94ebadad84d914eb521a8d85"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.toml"
 hash = "fde37d4760ea8b9bbf8796efac55e8f8086ab3d7663f799b72161482bd22f951"
 metafile = true
