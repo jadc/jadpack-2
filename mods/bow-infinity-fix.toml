@@ -1,14 +1,14 @@
 name = "Bow Infinity Fix"
-filename = "BowInfinityFix-1.16.x-fabric-rv9.jar"
+filename = "BowInfinityFix-1.16.x-rv9.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.jar"
+url = "https://edge.forgecdn.net/files/3071/178/BowInfinityFix-1.16.x-rv9.1.jar"
 hash-format = "murmur2"
-hash = "4246186735"
+hash = "279166027"
 
 [update]
 [update.curseforge]
-file-id = 3036054
+file-id = 3071178
 project-id = 224713
 release-channel = "beta"

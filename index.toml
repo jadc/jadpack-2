@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/bow-infinity-fix.toml"
-hash = "100517d8626944a3b6cc1e9bca0de10c2c5ddc6fd74628e0f0562d5d09c15fbd"
+hash = "9e56f98de3f5adfbbff4595bbf334d9f1d59a06c1a7fe9a9954a11f4d714ac45"
 metafile = true
 
 [[files]]
@@ -66,11 +66,6 @@ hash = "02a5e0ba6e583bf6733d19ca7c847991e1436f8df98a37002ca733528342a695"
 metafile = true
 
 [[files]]
-file = "mods/clear-despawn-fabric.toml"
-hash = "5151edf9038f2fe322a0629e0cba2af08c0873772d0c267bbf5e9757c85398e5"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.toml"
 hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
 metafile = true
@@ -88,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.toml"
 hash = "ccc6f22ef1e27b59959ad363d9a68dc51428f3864f36279446e2f84973a13a18"
-metafile = true
-
-[[files]]
-file = "mods/dead-totems.toml"
-hash = "c8411e6a7079b6a17bc0a11482407e7ecde82ac4868d0f458f7bd0c15c9f52b3"
 metafile = true
 
 [[files]]
@@ -193,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
-metafile = true
-
-[[files]]
-file = "mods/nbt-crafting.toml"
-hash = "131b8dfc873f7e76ee416059ad5afa941712a624872de880026746b9231fe369"
 metafile = true
 
 [[files]]
