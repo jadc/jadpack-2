@@ -191,11 +191,6 @@ hash = "139f0022e77def22cb8fbfce63c344fc5bbed7699e78f1962b343f06911402e4"
 metafile = true
 
 [[files]]
-file = "mods/iron-chests-fabric.toml"
-hash = "693c34ea9e6592c87ffe098493d8b47d4f6862d89520e41170c6776487652913"
-metafile = true
-
-[[files]]
 file = "mods/item-model-fix.toml"
 hash = "381c6141fabbe1244a6b9d2d1ce2b56f11fc8df4114931acbdc379197a4d99cc"
 metafile = true
