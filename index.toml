@@ -116,6 +116,11 @@ hash = "aef02a9c7c6a0e96a5fbcabc36173320f40b6340256fd6f8aad22f2c43a97a75"
 metafile = true
 
 [[files]]
+file = "mods/fabric-resource-loader.toml"
+hash = "2d6be65a414d4c5b39bc5c7bb17fa376eabc540fe39ff530d49ce98a3fc42b22"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.toml"
 hash = "53582737e4b9dfdd0a1266ec2278ca880562b15163a8fe821b1040366a639cca"
 metafile = true

@@ -1,0 +1,14 @@
+name = "Resource Loader [Fabric]"
+filename = "resource-loader.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3034/907/resource-loader-%5Bfabric%5D-1.1.1.jar"
+hash-format = "murmur2"
+hash = "208474276"
+
+[update]
+[update.curseforge]
+file-id = 3034907
+project-id = 363209
+release-channel = "beta"
