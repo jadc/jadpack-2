@@ -21,11 +21,6 @@ hash = "ece8857838970189bae0299e31aa3099a1fa7a2bcdd78f68dcdb3a91ca235e91"
 metafile = true
 
 [[files]]
-file = "mods/better-mod-button.toml"
-hash = "a971dec476d5d09e18b9031cdf28bf7f4eb1f5c0f85a5a80f6c645a9c832967c"
-metafile = true
-
-[[files]]
 file = "mods/betterend.toml"
 hash = "3212b6b5c5e9352daf99700e0bee79aeefa36e823e04621170fa2b67d6b15b83"
 metafile = true
@@ -38,11 +33,6 @@ metafile = true
 [[files]]
 file = "mods/betternether.toml"
 hash = "948f188aac7242d3c1ee59aa64f1a0f15e6e0cda6e5a60b1d5703c3d2870f51c"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.toml"
-hash = "4aa9350f98a8731e2ac3b9a3be3040d30c68ee5f5b0a5e9a21fda82b3ecbe37e"
 metafile = true
 
 [[files]]
