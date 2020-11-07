@@ -1,0 +1,14 @@
+name = "Muffle"
+filename = "Muffle 0.1.1 for 1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3042/17/Muffle 0.1.1 for 1.16.2.jar"
+hash-format = "murmur2"
+hash = "858344831"
+
+[update]
+[update.curseforge]
+file-id = 3042017
+project-id = 391937
+release-channel = "beta"

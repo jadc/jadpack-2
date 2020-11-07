@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adventurez.toml"
+hash = "c7daf1615cb0c99231387b23c58c823df3bee5eab1b8a3a327add8fd460552ac"
+metafile = true
+
+[[files]]
 file = "mods/anvil-fix.toml"
 hash = "f171d330ff2cd7b096457f1705c975c72222427538e5341db5ee7221f8c60826"
 metafile = true
@@ -221,8 +226,18 @@ hash = "2bf51b8ea387f5c81c835edb4940987b0dd3dde48a9e83e881f8a2658dc4bd08"
 metafile = true
 
 [[files]]
+file = "mods/mobs-attempt-parkour.toml"
+hash = "bcc4ce90d3a72a532da92f247e26de107ca1e0a4edfd1ab821f74d01fdcd9e91"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "f9ff98a69bcbe357774fe7afb2a1426e118b503a56fceeb01e06100c4bdb8bc5"
+metafile = true
+
+[[files]]
+file = "mods/muffle.toml"
+hash = "b3f57385cd31e662939c9878fb08d84f501984ba7c915e8e445014f03b35cd22"
 metafile = true
 
 [[files]]
