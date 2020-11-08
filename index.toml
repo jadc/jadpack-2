@@ -46,11 +46,6 @@ hash = "9e56f98de3f5adfbbff4595bbf334d9f1d59a06c1a7fe9a9954a11f4d714ac45"
 metafile = true
 
 [[files]]
-file = "mods/canvas-renderer.toml"
-hash = "43ead00e8da233616333735a78ffe9481355b91be62de51a1222199a9fdf83d3"
-metafile = true
-
-[[files]]
 file = "mods/capes.toml"
 hash = "193b85b97152e488cc74dc0de0e99014d1b031ad96804c64a5057483b8c0f0ae"
 metafile = true
@@ -298,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "de6c84a7b24f79c247faf44cf44c0cb3fb5de948b3f18e712a191cda32cc0fbc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "e8bd65dbaa1cec8da1df4f903b8dc1a9db5aca82e56856c06fc284ff1b9a9a73"
 metafile = true
 
 [[files]]
