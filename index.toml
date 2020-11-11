@@ -36,11 +36,6 @@ hash = "360932196b7aa7a809adbdabcf75e6f18a928e744a27af2fca3e54e86ddbd6be"
 metafile = true
 
 [[files]]
-file = "mods/betternether.toml"
-hash = "948f188aac7242d3c1ee59aa64f1a0f15e6e0cda6e5a60b1d5703c3d2870f51c"
-metafile = true
-
-[[files]]
 file = "mods/bow-infinity-fix.toml"
 hash = "9e56f98de3f5adfbbff4595bbf334d9f1d59a06c1a7fe9a9954a11f4d714ac45"
 metafile = true
@@ -68,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-pregenerator-fabric.toml"
 hash = "58656c01fa3305de76e0b16e0695ff8820f7551a84789644ca96b41dd9f4bae7"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.toml"
+hash = "de1515ea72a5b25261300cca0fac76d14c6e796982d7712ac304219ec228adf3"
 metafile = true
 
 [[files]]
